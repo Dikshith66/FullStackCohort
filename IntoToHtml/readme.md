@@ -20,8 +20,6 @@ Below is a screenshot of the UI as seen in a browser:
 
 ![Screenshot of Intro to HTML page](Capture.PNG)
 
-> _Replace `screenshot.png` with an actual screenshot of your rendered HTML page in the project directory._
-
 ## How to Use
 
 1. Open the `index.html` file in your web browser.
