@@ -18,7 +18,7 @@ The web page showcases the following HTML features:
 
 Below is a screenshot of the UI as seen in a browser:
 
-![Screenshot of Intro to HTML page](Capture.png)
+![Screenshot of Intro to HTML page](Capture.PNG)
 
 > _Replace `screenshot.png` with an actual screenshot of your rendered HTML page in the project directory._
 
